@@ -1,6 +1,6 @@
-Practica 1
+Práctica 1
 Integrantes:
-Evelyn Solano
+Evelyn Solano Portillo
 Aranza Michelle Gutierrez Jiménez
-Daniel Vega
+Daniel Vega Rodríguez
 Marco Antonio Castelan Rosete 
