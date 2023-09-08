@@ -1,6 +1,6 @@
-Practica 1
+Práctica 1
 Integrantes:
-Evelyn Solano (Eeveeelyyyn)
+Evelyn Solano Portillo (Eeveeelyyyn)
 Aranza Michelle Gutierrez Jiménez (AranzaMich)
-Daniel Vega (DanVer2002)
+Daniel Vega Rodríguez (DanVer2002)
 Marco Antonio Castelan Rosete (marco2220x)
