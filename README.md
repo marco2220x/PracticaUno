@@ -1,6 +1,6 @@
 Practica 1
 Integrantes:
 Evelyn Solano
-Aranza
+Aranza Michelle Gutierrez Jiménez
 Daniel Vega
 Marco Antonio Castelan Rosete 
