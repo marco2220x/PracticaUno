@@ -11,6 +11,4 @@ print ("Voy a modificar a partir de esta línea, atte: Daniel")
 print ("Archivo modificado una vez más")
 print (" C: ")
 
-print ("Voy a modificar a partir de esta línea, atte: Marco")
-print ("Archivo modificado")
-print (" C: ")
+ 
